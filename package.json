@@ -1,7 +1,11 @@
 {
   "name": "add-prettier-vsc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": "bin.js",
   "author": "ideadesignmedia <60307610+ideadesignmedia@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideadesignmedia/add-prettier-vsc.git"
+  }
 }
